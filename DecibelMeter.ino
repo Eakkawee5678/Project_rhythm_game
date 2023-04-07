@@ -1,6 +1,5 @@
 const int sampleWindow = 50;                              // Sample window width in mS (50 mS = 20Hz)
 unsigned int sample;
-int LED = 5; 
 int I = 0;
 #define SENSOR_PIN A0
 
